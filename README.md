@@ -13,8 +13,3 @@ The model achieved **90% accuracy**, providing actionable insights for **road sa
 - Provides interpretable insights for policymakers and planners
 
 ---
-
-## ⚙️ Installation / Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/road-accident-risk-prediction.git
